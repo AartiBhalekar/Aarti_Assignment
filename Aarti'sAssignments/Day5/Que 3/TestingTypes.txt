@@ -1,0 +1,86 @@
+List of testings:
+1. Accessibility testing 
+2. Performance testing
+3. Sanity testing
+4. Smoke testing
+5. Functional testing
+6. Non functional testing
+7. UI testing
+8. System testing
+9. API testing
+10. End to end testing
+11. Unit testing
+12. White box testing
+13. Black box testing
+14. Alpha testing 
+15. Beta testing
+
+1. Accessibility testing : Accessibility testing is the practice of ensuring your mobile and web apps are
+	working and usable for users without and with disabilities such as vision impairment, hearing disabilities, 
+	and other physical or cognitive conditions.
+	
+2. Performance testing : Performance testing examines the speed, stability, reliability, scalability, and 
+	resource usage of a software application under a specified workload.
+	
+3. Sanity testing : A type of regression testing, QA professionals perform sanity testing on new versions of
+	stable builds to validate either new functionality or bug fixes. While similar to smoke testing in that 
+	both provide a gate check that a build is ready for more testing, sanity testing is unscripted and specifically
+	targets the area that has undergone a code change.
+	
+4. Smoke testing : Smoke testing, a type of acceptance testing, provides an initial check that a new software
+	build and its critical functionality are stable. If the smoke tests pass, the build can undergo further testing.
+	Smoke testing, also called build verification testing, often checks whether new or critical functionality meets
+	its objective. If the tests don’t pass, as the saying goes, “where there’s smoke, there’s fire,” and additional 
+	dev work is required.
+	
+5. Functional testing : Functional testing checks an application, website, or system to ensure it’s doing exactly 
+	what it’s supposed to be doing. 
+	
+6. Non functional testing : Non functional testing verifies the readiness of a system according to nonfunctional
+	parameters (performance, accessibility, UX, etc.)  which are never addressed by functional testing. 
+	
+7. UI testing : With UI testing, QA professionals interact with the graphical interface of a software program. This
+	includes testing of UI controls like buttons, menus and text input to ensure that the experience flow and
+	features chosen are optimal for the user experience.
+	
+8. System testing : With system testing, QA professionals test the software in its entirety, as a complete product.
+	With this type of functional testing, testers validate the complete and integrated software package to make 
+	sure it meets requirements. Where necessary, testers can provide feedback on the functionality and performance
+	of the app or website without prior knowledge of how it was programmed. This helps teams develop test cases to
+	be used moving forward. System testing is also referred to as end-to-end testing.
+	
+9. API testing : Application programming interfaces connect different applications or systems, and they are growing
+	in popularity as consumers expect apps to interoperate. With API testing, testers validate that API connections
+	and responses function as intended, including how they handle data and user permissions.
+	
+10. End of end testing : End to end testing is a technique that tests the application’s workflow from beginning to
+	end to make sure everything functions as expected.
+	
+11. Unit testing : Before you can test an entire software program, make sure the individual parts work properly on
+	their own. Unit testing validates the function of a unit, ensuring that the inputs (one to a few) result in the
+	lone desired output. This testing type provides the foundation for more complex integrated software. When done 
+	right, unit testing drives higher quality application code and speeds up the development process. Developers 
+	often execute unit tests through test automation.
+	
+12. White box testing : When the software’s internal infrastructure, code and design are visible to the developer 
+	or tester, that refers to white-box testing. This approach incorporates various functional testing types,
+	including unit, integration and system testing. In a white-box testing approach, the organization tests several
+	aspects of the software, such as predefined inputs and expected outputs, as well as decision branches, loops
+	and statements in the code.
+	
+13. Black box testing : Contrary to white-box testing, black-box testing involves testing against a system where the 
+	internal code, paths and infrastructure are not visible. Thus, testers use this method to validate expected 
+	outputs against specific inputs. Any time where a QA professional doesn’t look into the code before testing can
+	be considered black box. With black-box testing, the organization can test the software in the same way a customer
+	would experience it. Black-box testing encompasses a variety of non-functional and functional testing types, 
+	depending on the objective of the test.
+	
+14. Alpha testing : Another subset of acceptance testing, alpha testing uses internal team members to evaluate the
+	product. These team members should be knowledgeable of the project but not directly involved in its development
+	or testing. Where some builds might still be somewhat unstable, alpha testing provides an immediate subset of 
+	testers to root out major bugs before the software is seen by external users.
+	
+15. Beta testing : After the internal team tests the product and fixes bugs, beta testing occurs with a select group 
+	of end users. Beta testing serves as a soft launch, enabling you to get feedback from real users who have no prior
+	knowledge of the app. Beta testing enables you to gather feedback from unbiased users who may interact with the 
+	product differently than you intended, perhaps identifying critical unknown bugs before release to a wide user base.
